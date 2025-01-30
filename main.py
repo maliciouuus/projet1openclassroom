@@ -8,6 +8,8 @@ import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from threading import Lock
 
+#test
+
 #Malheuresement il y'a pas de sitemap.xml donc pas cool sinon ça serait trop facile 
 
 # Verrou pour les écritures dans les fichiers
