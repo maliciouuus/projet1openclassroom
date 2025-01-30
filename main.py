@@ -24,7 +24,7 @@ def recup_page(url):
         return None
 
 def nettoie_texte(texte):
-    """vire les caractères chelous"""
+    """vire les caractères etrange"""
     return texte.strip().replace('£', '').replace('Â', '')
 
 def compte_stock(texte):
